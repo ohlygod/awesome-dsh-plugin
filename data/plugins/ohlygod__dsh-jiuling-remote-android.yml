@@ -1,0 +1,7 @@
+url: https://github.com/ohlygod/dsh-jiuling-remote-android
+name: ohlygod/dsh-jiuling-remote-android
+category: remote
+tarball: https://github.com/ohlygod/dsh-jiuling-remote-android/releases/download/v0.1.0/dsh-jiuling-remote-android-0.1.0.tgz
+description:
+  en: 'Android half of the DSH remote-directory pairing: enter the 6-digit code shown on the desktop, keep the access token in the engine process only, and expose a same-origin RPC and SSE bridge to the paired desktop relay.'
+  zh: 'DSH 远程目录的安卓端配对层：输入电脑上显示的 6 位配对码，把访问令牌只留在引擎进程里，并对外提供指向电脑中继的同源 RPC 与 SSE 桥。'
