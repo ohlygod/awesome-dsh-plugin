@@ -1,0 +1,7 @@
+url: https://github.com/ohlygod/dsh-task-notify
+name: ohlygod/dsh-task-notify
+category: notify
+tarball: https://github.com/ohlygod/dsh-task-notify/releases/latest/download/dsh-task-notify.tgz
+description:
+  en: 'Pops a Windows tray notification every time a DSH turn ends, so you notice the task finished without watching the window; turns from the same session within five seconds are merged into one, and there is a settings page with an on/off switch and a test button.'
+  zh: '每轮 DSH 任务结束就在 Windows 弹出托盘通知，不用盯着窗口等它跑完；同一会话五秒内的多轮会合并成一条，设置页带开关与「试一条」按钮。'
